@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import HeaderCopy from "../Header/headercopy";
 import Footer from "../Footer.js/footer";
 import { FaPhoneAlt, FaWhatsapp } from "react-icons/fa";

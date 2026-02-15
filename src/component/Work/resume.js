@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import PdfViewer from "./pdfViewer";
 import pdf from '../../assets/resume.pdf';
 

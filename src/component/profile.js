@@ -1,4 +1,4 @@
-import react from "react";
+// import react from "react";
 import HeaderCopy from "../Header/headercopy";
 import Footer from "../Footer.js/footer";
 
