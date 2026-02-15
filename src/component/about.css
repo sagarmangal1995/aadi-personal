@@ -1,0 +1,20 @@
+.about{
+    display: flex;
+}
+.text{
+    padding: 20px;
+}
+@media screen and (max-width: 820px){
+    body{
+        grid-template-columns: 1fr 1fr;
+    }
+    .main{
+        display: block;
+        justify-content: center;
+        width: 100%;
+    }
+    .about{
+        display: block;
+        width: 100%;
+    }
+}

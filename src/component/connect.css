@@ -1,0 +1,19 @@
+.connect {
+    display: flex;
+    justify-content: space-evenly;
+}
+.imga{
+    width: 40%;
+    filter: grayscale(100%);
+}
+@media screen and (max-width:820px) {
+    .connect {
+        display: block;
+        justify-content: center;
+        width: 100%;
+    }
+    .imga{
+        width: 100%;
+        filter: grayscale(100%);
+    }
+}

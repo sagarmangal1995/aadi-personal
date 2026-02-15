@@ -1,0 +1,27 @@
+.imgdas{
+    width:100%;
+}
+
+@media only screen and (max-width: 920px) {
+    .imageD{
+        width: 100%;
+        max-width: fit-content;
+    }
+    .imgdas{
+        max-height: fit-content;
+     
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 786px) {
+    .imageD{
+        width: 100%;
+        max-height: fit-content;
+    }
+    .imgdas{
+        width: 100%;
+        max-height: fit-content;
+
+    }
+}
