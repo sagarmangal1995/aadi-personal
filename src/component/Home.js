@@ -1,4 +1,4 @@
-// import React from "react";
+
 import HeaderCopy from "../Header/headercopy";
 import Footer from "../Footer.js/footer";
 import "./home.css";

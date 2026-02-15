@@ -12,7 +12,7 @@ import FilmWork from './component/Work/filmwork';
 import Teaching from './component/Work/teaching';
 import Resume from './component/Work/resume';
 import Portfolio from './component/portfolio';
-// import Profile from './component/profile';
+
 
 function App() {
   return (
