@@ -8,7 +8,7 @@ function HeaderCopy() {
   return (
     <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark" sticky="top">
       <Container>
-        <Navbar.Brand href="/"><img src='logo.jpg'/></Navbar.Brand>
+        <Navbar.Brand href="/"><img src='logo.jpg' alt="Logo"/></Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav"/>
         <Navbar.Collapse id="responsive-navbar-nav" className='justify-content-center'>
           <Nav className="">

@@ -65,7 +65,7 @@ function Connect() {
                             </div>
 
                             <div style={{ display: "contents" }}  >
-                                <img src="connect.jpg" alt="aaditya photo" className="imga" />
+                                <img src="connect.jpg"  alt="Contact icon" className="imga" />
                             </div>
                         </div>
                     </div>

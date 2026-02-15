@@ -11,7 +11,7 @@ function About (){
             {/* <h1>ABOUT AADITYA...</h1> */}
             <div className="about">
                 <div>
-                    <img src="about.webp" alt="aaditya photo" style={{ width:"100%", display:"flex",padding:"20px",filter: "grayscale(100%)"}}/>
+                    <img src="about.webp" alt="About section" style={{ width:"100%", display:"flex",padding:"20px",filter: "grayscale(100%)"}}/>
                 </div>
                 <div style={{ padding:"20px"}}>
                     <p>I am an Actor, theatre practitioner and acting coach, born and brought up In Nagpur and have done my graduation in <span style={{color:"#e7d0ba"}}><b>“ENGINEERING”</b></span> from Nagpur, India.</p>

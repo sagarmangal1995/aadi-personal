@@ -9,7 +9,7 @@ function Dashboard(){
             <HeaderCopy/>
             <div>
                 <div className="imageD">
-                    <img src="dashboard.jpg" alt="aaditya photo" className="imgdas"/>
+                    <img src="dashboard.jpg" alt="Dashboard" className="imgdas"/>
                 </div>
             </div>
             <Footer/>
